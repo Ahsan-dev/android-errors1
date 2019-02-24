@@ -1,0 +1,7 @@
+While developing any Android application if your code will be built successful but on your avd(android virtual device) or hardware device screen there will work nothing just showing "application(according to your application name) has stopped now" then dont be upset. 
+Just follow my suggestions :
+➡go to "logcat" screen and again run your application. 
+➡then in logcat select error.
+➡and finally according to that errors debug your coding.
+
+Thank you developers... Stay happy with android development by the grace of Almightily.
